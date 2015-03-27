@@ -1,0 +1,16 @@
+{
+  "name": "haxe-ripple-lib",
+  "url": "https://github.com/darkdarkdragon/haxe-ripple-lib",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["ripple"],
+  "description": "Client for interacting with the ripple servers using REST",
+  "releasenote": "initial release",
+  "version": "0.1.0",
+  "contributors": ["darkdarkdragon"],
+  "dependencies": {
+    "thx.core": "",
+    "thx.promise": "",
+    "hxBitcoin" : ""
+  }
+}
